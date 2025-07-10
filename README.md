@@ -1,2 +1,1 @@
-# git-github-foundations-exam
-exam
+This is the first line
